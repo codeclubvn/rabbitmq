@@ -1,0 +1,5 @@
+routes:
+    - routing_key: routing_key
+      api: /check-health
+
+# Thêm các cặp routing_key và api khác tùy ý
